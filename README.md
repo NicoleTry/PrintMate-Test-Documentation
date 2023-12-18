@@ -42,6 +42,10 @@ Feel free to navigate through the various directories to witness firsthand the s
 
 This repository showcases my proficiency in writing comprehensive test documentation to ensure the quality and reliability of the software.
 
+### Test Scenarios
+
+Explore the [`test-scenarios`](/test-scenarios) directory for high-level test scenarios that provide a holistic view of the testing scenarios considered during the testing phase.
+
 ### Test Cases
 
 The [`test-cases`](/test-cases) directory contains detailed test cases for various components and functionalities of the project. Each test case includes:
@@ -61,10 +65,6 @@ Refer to the [`test-plans`](/test-plans) directory for comprehensive test plans 
 ### Test Scripts
 
 The [`test-scripts`](/test-scripts) directory contains executable test scripts written in [preferred scripting language] for automated testing. These scripts cover regression, functional, and integration testing.
-
-### Test Scenarios
-
-Explore the [`test-scenarios`](/test-scenarios) directory for high-level test scenarios that provide a holistic view of the testing scenarios considered during the testing phase.
 
 ## Getting Started
 
