@@ -38,6 +38,10 @@ Welcome to Test-Documentation, a dedicated repository highlighting my expertise 
 
 Feel free to navigate through the various directories to witness firsthand the standards and practices that have contributed to successful software releases in Agile environments.
 
+### Test Plans
+
+Refer to the [`test-plans`](/test-plans) directory for comprehensive test plans outlining the testing strategy, resources, schedule, and scope of testing.
+
 ## Test Documentation
 
 This repository showcases my proficiency in writing comprehensive test documentation to ensure the quality and reliability of the software.
@@ -57,10 +61,6 @@ The [`test-cases`](/test-cases) directory contains detailed test cases for vario
 - Expected Results
 - Actual Results
 - Status (Pass/Fail)
-
-### Test Plans
-
-Refer to the [`test-plans`](/test-plans) directory for comprehensive test plans outlining the testing strategy, resources, schedule, and scope of testing.
 
 ### Test Scripts
 
