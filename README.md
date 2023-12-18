@@ -8,6 +8,19 @@ In the fast-paced realm of Agile development, where efficiency and accuracy are 
 
 Whether you're an aspiring QA professional, a fellow developer, or a potential employer, delve into this repository to witness firsthand the documentation practices that have contributed to successful software releases in Agile environments.
 
+## Table of Contents
+
+1. [Introduction](#introduction)
+2. [Test Documentation](#test-documentation)
+   - [Test Cases](#test-cases)
+   - [Test Plans](#test-plans)
+   - [Test Scripts](#test-scripts)
+   - [Test Scenarios](#test-scenarios)
+3. [Getting Started](#getting-started)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+
 
 ## Introduction
 
@@ -24,19 +37,6 @@ Welcome to Test-Documentation, a dedicated repository highlighting my expertise 
 - **Community Engagement:** Join the QA community in exploring and discussing testing strategies, documentation best practices, and fostering collaboration in an ever-evolving landscape.
 
 Feel free to navigate through the various directories to witness firsthand the standards and practices that have contributed to successful software releases in Agile environments.
-
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Test Documentation](#test-documentation)
-   - [Test Cases](#test-cases)
-   - [Test Plans](#test-plans)
-   - [Test Scripts](#test-scripts)
-   - [Test Scenarios](#test-scenarios)
-3. [Getting Started](#getting-started)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [License](#license)
 
 ## Test Documentation
 
