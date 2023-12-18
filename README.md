@@ -1,9 +1,9 @@
 # Test-Documentation
-# Project Title
 
 ## Description
 
 Briefly describe the purpose and scope of the project. Highlight key features or functionalities.
+This project showcases the real test documentation that I have created while working as a QA Analyst. I have 2 years of experience working in an Agile environment, so my documentation is precise but concise. 
 
 ## Table of Contents
 
