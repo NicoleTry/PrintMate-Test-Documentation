@@ -9,10 +9,6 @@ In the fast-paced realm of Agile development, where efficiency and accuracy are 
 Whether you're an aspiring QA professional, a fellow developer, or a potential employer, delve into this repository to witness firsthand the documentation practices that have contributed to successful software releases in Agile environments.
 
 ## Table of Contents
-...
-
-
-## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Test Documentation](#test-documentation)
