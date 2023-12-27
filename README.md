@@ -1,4 +1,9 @@
 # Test-Documentation
+
+## Introduction
+
+Welcome to Test-Documentation, a dedicated repository highlighting my expertise in crafting effective test documentation. As a seasoned QA Analyst with hands-on experience in meticulous documentation practices, this project serves as a live showcase of my skills and real-world contributions.
+
 ## Description
 
 Welcome to Test-Documentation, a comprehensive repository exemplifying my proficiency in creating precise and concise test documentation during my 2 years of experience as a QA Analyst in Agile environments. This project stands as a testament to the meticulous testing practices implemented to ensure software quality and reliability.
@@ -20,10 +25,6 @@ Whether you're an aspiring QA professional, a fellow developer, or a potential e
 4. [Usage](#usage)
 5. [Contributing](#contributing)
 6. [License](#license)
-
-## Introduction
-
-Welcome to Test-Documentation, a dedicated repository highlighting my expertise in crafting effective test documentation. As a seasoned QA Analyst with hands-on experience in meticulous documentation practices, this project serves as a live showcase of my skills and real-world contributions.
 
 ## Purpose
 
