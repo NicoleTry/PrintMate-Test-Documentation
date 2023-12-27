@@ -1,0 +1,21 @@
+Test Scenarios for PrintMate
+
+## Purpose
+1. Verify complete functionality
+2. Verify that the business flows meet the app's requirements
+3. Organize work and determine testing effort
+4. Determine end-to-end critical app's
+
+I like using test scenarios to organize the features that needed to be tested after a new release. I find that they help me focus on functionalities/tickets that have higher priority. 
+I work in a fast paced environment so staying organized but concise is critical for success.
+
+## Real-World Examples: I use these in my work to test
+
+As you can see from this screenshot, I have each release version documented on the column, then each card is a test scenario that needs to be covered during testing.
+This particular board covered the testing we needed to do for one of our clients that brings in $1million in revenue each year. 
+
+I liked to present this to stakeholders so they can quickly see how well the app is performing with each release. As you can see, passes are indicated by the green bubble, failures are represented by the red bubble.
+
+
+
+
