@@ -11,10 +11,10 @@ I work in a fast paced environment so staying organized but concise is critical 
 
 ## Real-World Examples: I use these in my work to test
 
-As you can see from this screenshot, I have each release version documented on the column, then each card is a test scenario that needs to be covered during testing.
-This particular board covered the testing we needed to do for one of our clients that brings in $1million in revenue each year. 
+Please see the file named "Test Scenario Overview" to see an example of my scenarios from a high level, I have each release version documented on the column, then each card is a test scenario that needs to be covered during testing.
+This particular board covered the testing we needed to do for one of our clients that brings us $1million in revenue in ink sales each year. This is their website: https://pennemblem.com/
 
-I liked to present this to stakeholders so they can quickly see how well the app is performing with each release. As you can see, passes are indicated by the green bubble, failures are represented by the red bubble.
+I liked to present this to stakeholders so they can quickly see how well the app is performing with each release.
 
 
 
