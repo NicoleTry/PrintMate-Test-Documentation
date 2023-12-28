@@ -5,7 +5,7 @@
 ## Introduction
 
 Welcome to PrintMate Test Documentation, a dedicated repository highlighting my experience in crafting effective test documentation for the web application
-[PrintMate]([url](https://www.sawgrassink.com/applications/printmate/))
+[PrintMate]([PrintMate](https://www.sawgrassink.com/applications/printmate/))
 
 
 ## Table of Contents
