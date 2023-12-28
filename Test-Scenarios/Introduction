@@ -23,6 +23,10 @@ I liked to present this to stakeholders so they can quickly see how well the app
 2. Test Scenario Card - Pass.png
 I added Pass/Fail labels so I can quickly document the test results. You will see in this file that this scenario passed for this release.
 
+3. Test Scenario Card - Fail.png
+When a scenario failed, I would add comments on why the test failed.
+
+
 
 
 
